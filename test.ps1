@@ -1,0 +1,1 @@
+defrag.exe C: /A /U /V | Out-File -FilePath %TEMP%\\defrag_out.txt -Encoding utf8
